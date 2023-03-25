@@ -2,7 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/8220356779) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanjayrahul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-rahul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjayrahul6787) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sanjayrahul_)
 
-<a href="https://app.daily.dev/sanjayrahul"><img src="https://api.daily.dev/devcards/a8e069be0f9c46cd96cfe30013da556a.png?r=c60" width="400" alt="Sanjay Rahul's Dev Card"/></a>
+<a href="https://app.daily.dev/sanjayrahul"><img src="https://api.daily.dev/devcards/a8e069be0f9c46cd96cfe30013da556a.png?r=edt" width="400" alt="Sanjay Rahul's Dev Card"/></a>
 
 # 💻 Tech Stack:
 
