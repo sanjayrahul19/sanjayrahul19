@@ -61,12 +61,12 @@ Currently, I'm expanding my expertise into **Generative AI, Large Language Model
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayrahul19&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrahul19&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayrahul19&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrahul19&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjayrahul19&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sanjayrahul19&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Currently, I'm expanding my expertise into **Generative AI, Large Language Model
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayrahul19&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjayrahul19&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -85,8 +85,6 @@ I'm always interested in connecting with developers, learning new technologies, 
 
 - LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
 - GitHub: [@sanjayrahul19](https://github.com/sanjayrahul19)
-
----
 
 <p align="center">
   <i>Building, learning, and evolving — one commit at a time. 🚀</i>
