@@ -65,9 +65,11 @@ Currently, I'm expanding my expertise into **Generative AI, Large Language Model
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sanjayrahul19?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sanjayrahul19?label=Total%20Stars&style=for-the-badge&logo=github&color=181717" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/sanjayrahul19?label=Repositories&style=for-the-badge&logo=github&color=181717" alt="GitHub Repositories" />
+  <img src="https://img.shields.io/github/followers/sanjayrahul19?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sanjayrahul19?label=Total%20Stars&style=for-the-badge&logo=github&color=181717" alt="Stars" />
+  <a href="https://github.com/sanjayrahul19?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
 </p>
 
 <p align="center">
